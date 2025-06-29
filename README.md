@@ -1,9 +1,11 @@
 # ✅ Maya Python API 2.0 Stub Progress
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
+
 **Total progress:** `120 / 299` classes complete.
 ![](https://geps.dev/progress/40?dangerColor=65c065&warningColor=65c065&successColor=65c065)
 
-**Last Updated:** 2025-06-28
+**Last Updated:** 2025-06-29
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya’s Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -382,11 +384,15 @@
 
 ## 📦 Sample Stub
 
-Here’s an example of a fully tested, strict Python stub for `maya.api.OpenMaya.MArgList`.
+Here's an example of a fully tested, strict Python stub for `maya.api.OpenMaya.MArgList`.
 These stubs aim to match Maya's internal API behavior as closely as possible.
 
 <details>
 <summary><strong>Click to expand</strong></summary>
+
+> [!NOTE]
+> This stub is meant to work with Python 3.7+, positional-only arguments were introduced in Python 3.8.
+> Therefore, positional-only arguments have been prefixed with `__`
 
 ```python
 from typing import overload, Final, Union, Self, List, Optional
