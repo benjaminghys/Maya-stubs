@@ -7,6 +7,8 @@
 
 **Last Updated:** 2025-06-29
 
+**Estimated number of unit tests:** ~8098¹
+
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya’s Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
 
@@ -428,6 +430,10 @@ class MArgList:
 ```
 
 </details>
+
+---
+
+¹ Does _**not**_ include shared/inherited tests across similar types (e.g., M*Array classes).
 
 ---
 
