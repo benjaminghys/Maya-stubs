@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `120 / 299` classes complete.
+**Total progress:** `121 / 299` classes complete.
 ![](https://geps.dev/progress/40?dangerColor=65c065&warningColor=65c065&successColor=65c065)
 
-**Last Updated:** 2025-07-06
+**Last Updated:** 2025-07-07
 
-**Estimated number of unit tests:** ~8199¹
+**Estimated number of unit tests:** ~8226¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya’s Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -20,6 +20,7 @@
 - Each class and function is **individually verified** through unit testing in a real Maya 2022.5 environment.
 - Designed to support **Python 3.7+** (later versions will match Maya's interpreter versions).
 - Once full coverage is reached for Maya 2022, **more Maya versions will follow**.
+- Depending on demand, stubs will be created in this order: 2022, 2023, 2024, 2025, 2026.
 
 ---
 
@@ -44,10 +45,10 @@
 
 ### `maya.api.OpenMaya`
 
-![](https://geps.dev/progress/77?dangerColor=65c065&warningColor=65c065&successColor=65c065)
+![](https://geps.dev/progress/78?dangerColor=65c065&warningColor=65c065&successColor=65c065)
 
 <details>
-<summary><strong>120 / 155 classes complete</strong></summary>
+<summary><strong>121 / 155 classes complete</strong></summary>
 
 - ✅ `MAngle`
 - ✅ `MArgDatabase`
@@ -77,7 +78,7 @@
 - ✅ `MDagPath`
 - ✅ `MDagPathArray`
 - ⬜ `MDataBlock`
-- ⬜ `MDataHandle`
+- ✅ `MDataHandle`
 - ✅ `MDistance`
 - ✅ `MDoubleArray`
 - ✅ `MEulerRotation`
