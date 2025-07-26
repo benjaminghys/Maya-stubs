@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
 **Total progress:** `127 / 299` classes complete.
-![](https://geps.dev/progress/42?dangerColor=65c065&warningColor=65c065&successColor=65c065)
+![](https://geps.dev/progress/42?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 42%")
 
-**Last Updated:** 2025-07-24
+**Last Updated:** 2025-07-26
 
 **Estimated number of unit tests:** ~8582¹
 
@@ -50,7 +50,7 @@
 
 ### `maya.api.OpenMaya`
 
-![](https://geps.dev/progress/81?dangerColor=65c065&warningColor=65c065&successColor=65c065)
+![](https://geps.dev/progress/81?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 81%")
 
 <details>
 <summary><strong>127 / 155 classes complete</strong></summary>
@@ -216,7 +216,7 @@
 
 ### `maya.api.OpenMayaAnim`
 
-![](https://geps.dev/progress/0?dangerColor=65c065&warningColor=65c065&successColor=65c065)
+![](https://geps.dev/progress/0?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 0%")
 
 <details>
 <summary><strong>0 / 12 classes complete</strong></summary>
@@ -239,7 +239,7 @@
 
 ### `maya.api.OpenMayaRender`
 
-![](https://geps.dev/progress/0?dangerColor=65c065&warningColor=65c065&successColor=65c065)
+![](https://geps.dev/progress/0?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 0%")
 
 <details>
 <summary><strong>0 / 87 classes complete</strong></summary>
@@ -337,7 +337,7 @@
 
 ### `maya.api.OpenMayaUI`
 
-![](https://geps.dev/progress/0?dangerColor=65c065&warningColor=65c065&successColor=65c065)
+![](https://geps.dev/progress/0?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 0%")
 
 <details>
 <summary><strong>0 / 45 classes complete</strong></summary>
