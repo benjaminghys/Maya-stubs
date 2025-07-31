@@ -5,9 +5,9 @@
 **Total progress:** `127 / 299` classes complete.
 ![](https://geps.dev/progress/42?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 42%")
 
-**Last Updated:** 2025-07-29
+**Last Updated:** 2025-07-31
 
-**Estimated number of unit tests:** ~8582¹
+**Estimated number of unit tests:** ~10297¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -438,7 +438,7 @@ class MArgList:
 
 ---
 
-¹ Does _**not**_ include shared/inherited tests across similar types (e.g., M*Array classes).
+¹ Includes inherited tests across similar types (e.g., M*Array or MFn*ArrayData classes), total can slightly deviate.
 
 ---
 
