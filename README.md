@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `127 / 299` classes complete.
+**Total progress:** `128 / 299` classes complete.
 ![](https://geps.dev/progress/42?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 42%")
 
 **Last Updated:** 2025-07-31
@@ -50,10 +50,10 @@
 
 ### `maya.api.OpenMaya`
 
-![](https://geps.dev/progress/81?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 81%")
+![](https://geps.dev/progress/82?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 82%")
 
 <details>
-<summary><strong>127 / 155 classes complete</strong></summary>
+<summary><strong>128 / 155 classes complete</strong></summary>
 
 - ✅ `MAngle`
 - ✅ `MArgDatabase`
@@ -115,7 +115,7 @@
 - ✅ `MFnEnumAttribute`
 - ✅ `MFnGenericAttribute`
 - ✅ `MFnGeometryData`
-- ⬜ `MFnIntArrayData`
+- ✅ `MFnIntArrayData`
 - ✅ `MFnLightDataAttribute`
 - ⬜ `MFnMatrixArrayData`
 - ✅ `MFnMatrixAttribute`
