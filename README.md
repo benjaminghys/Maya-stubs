@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `128 / 299` classes complete.
-![](https://geps.dev/progress/42?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 42%")
+**Total progress:** `133 / 299` classes complete.
+![](https://geps.dev/progress/44?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 44%")
 
-**Last Updated:** 2025-07-31
+**Last Updated:** 2025-08-01
 
-**Estimated number of unit tests:** ~10297¹
+**Estimated number of unit tests:** ~10587¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -50,10 +50,10 @@
 
 ### `maya.api.OpenMaya`
 
-![](https://geps.dev/progress/82?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 82%")
+![](https://geps.dev/progress/85?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 85%")
 
 <details>
-<summary><strong>128 / 155 classes complete</strong></summary>
+<summary><strong>133 / 155 classes complete</strong></summary>
 
 - ✅ `MAngle`
 - ✅ `MArgDatabase`
@@ -117,7 +117,7 @@
 - ✅ `MFnGeometryData`
 - ✅ `MFnIntArrayData`
 - ✅ `MFnLightDataAttribute`
-- ⬜ `MFnMatrixArrayData`
+- ✅ `MFnMatrixArrayData`
 - ✅ `MFnMatrixAttribute`
 - ⬜ `MFnMatrixData`
 - ✅ `MFnMesh`
@@ -131,18 +131,18 @@
 - ⬜ `MFnNurbsSurfaceData`
 - ✅ `MFnPlugin`
 - ✅ `MFnPluginData`
-- ⬜ `MFnPointArrayData`
+- ✅ `MFnPointArrayData`
 - ✅ `MFnReference`
 - ✅ `MFnSet`
 - ✅ `MFnSingleIndexedComponent`
-- ⬜ `MFnStringArrayData`
+- ✅ `MFnStringArrayData`
 - ⬜ `MFnStringData`
 - ✅ `MFnTransform`
 - ✅ `MFnTripleIndexedComponent`
 - ✅ `MFnTypedAttribute`
-- ⬜ `MFnUInt64ArrayData`
+- ✅ `MFnUInt64ArrayData`
 - ✅ `MFnUnitAttribute`
-- ⬜ `MFnVectorArrayData`
+- ✅ `MFnVectorArrayData`
 - ✅ `MGlobal`
 - ✅ `MImage`
 - ✅ `MInt64Array`
