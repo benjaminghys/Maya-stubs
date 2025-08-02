@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `133 / 299` classes complete.
-![](https://geps.dev/progress/44?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 44%")
+**Total progress:** `137 / 299` classes complete.
+![](https://geps.dev/progress/45?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 45%")
 
-**Last Updated:** 2025-08-01
+**Last Updated:** 2025-08-02
 
-**Estimated number of unit tests:** ~10587¹
+**Estimated number of unit tests:** ~10648¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -50,10 +50,10 @@
 
 ### `maya.api.OpenMaya`
 
-![](https://geps.dev/progress/85?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 85%")
+![](https://geps.dev/progress/88?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 88%")
 
 <details>
-<summary><strong>133 / 155 classes complete</strong></summary>
+<summary><strong>137 / 155 classes complete</strong></summary>
 
 - ✅ `MAngle`
 - ✅ `MArgDatabase`
@@ -119,16 +119,16 @@
 - ✅ `MFnLightDataAttribute`
 - ✅ `MFnMatrixArrayData`
 - ✅ `MFnMatrixAttribute`
-- ⬜ `MFnMatrixData`
+- ✅ `MFnMatrixData`
 - ✅ `MFnMesh`
 - ✅ `MFnMeshData`
 - ✅ `MFnMessageAttribute`
 - ✅ `MFnNumericAttribute`
 - ✅ `MFnNumericData`
 - ✅ `MFnNurbsCurve`
-- ⬜ `MFnNurbsCurveData`
+- ✅ `MFnNurbsCurveData`
 - ✅ `MFnNurbsSurface`
-- ⬜ `MFnNurbsSurfaceData`
+- ✅ `MFnNurbsSurfaceData`
 - ✅ `MFnPlugin`
 - ✅ `MFnPluginData`
 - ✅ `MFnPointArrayData`
@@ -136,7 +136,7 @@
 - ✅ `MFnSet`
 - ✅ `MFnSingleIndexedComponent`
 - ✅ `MFnStringArrayData`
-- ⬜ `MFnStringData`
+- ✅ `MFnStringData`
 - ✅ `MFnTransform`
 - ✅ `MFnTripleIndexedComponent`
 - ✅ `MFnTypedAttribute`
