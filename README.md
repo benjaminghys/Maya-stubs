@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `137 / 299` classes complete.
-![](https://geps.dev/progress/45?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 45%")
+**Total progress:** `138 / 299` classes complete.
+![](https://geps.dev/progress/46?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 46%")
 
 **Last Updated:** 2025-08-02
 
-**Estimated number of unit tests:** ~10648¹
+**Estimated number of unit tests:** ~10686¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -50,10 +50,10 @@
 
 ### `maya.api.OpenMaya`
 
-![](https://geps.dev/progress/88?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 88%")
+![](https://geps.dev/progress/89?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 89%")
 
 <details>
-<summary><strong>137 / 155 classes complete</strong></summary>
+<summary><strong>138 / 155 classes complete</strong></summary>
 
 - ✅ `MAngle`
 - ✅ `MArgDatabase`
@@ -147,7 +147,7 @@
 - ✅ `MImage`
 - ✅ `MInt64Array`
 - ✅ `MIntArray`
-- ⬜ `MItCurveCV`
+- ✅ `MItCurveCV`
 - ⬜ `MItDag`
 - ⬜ `MItDependencyGraph`
 - ⬜ `MItDependencyNodes`
