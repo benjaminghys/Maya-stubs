@@ -438,7 +438,7 @@ class MArgList:
 
 ---
 
-¹ Includes inherited tests across similar types (e.g., M*Array or MFn*ArrayData classes), total can slightly deviate.
+¹ Includes inherited tests across similar types (e.g., M\*Array or MFn\*ArrayData classes), total can slightly deviate.
 
 ---
 
