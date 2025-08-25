@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `146 / 299` classes complete.
-![](https://geps.dev/progress/48?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 48%")
+**Total progress:** `147 / 299` classes complete.
+![](https://geps.dev/progress/49?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 49%")
 
-**Last Updated:** 2025-08-19
+**Last Updated:** 2025-08-25
 
-**Estimated number of unit tests:** ~11312¹
+**Estimated number of unit tests:** ~11339¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -53,7 +53,7 @@
 ![](https://geps.dev/progress/94?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 94%")
 
 <details>
-<summary><strong>146 / 155 classes complete</strong></summary>
+<summary><strong>147 / 155 classes complete</strong></summary>
 
 - ✅ `MAngle`
 - ✅ `MArgDatabase`
@@ -155,7 +155,7 @@
 - ✅ `MItMeshEdge`
 - ✅ `MItMeshFaceVertex`
 - ✅ `MItMeshPolygon`
-- ⬜ `MItMeshVertex`
+- ✅ `MItMeshVertex`
 - ⬜ `MItSelectionList`
 - ⬜ `MItSurfaceCV`
 - ✅ `MIteratorType`
