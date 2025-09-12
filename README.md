@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `151 / 299` classes complete.
+**Total progress:** `152 / 299` classes complete.
 ![](https://geps.dev/progress/50?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 50%")
 
-**Last Updated:** 2025-09-11
+**Last Updated:** 2025-09-12
 
-**Estimated number of unit tests:** ~11,523¹
+**Estimated number of unit tests:** ~11,575¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -50,10 +50,10 @@
 
 ### `maya.api.OpenMaya`
 
-![](https://geps.dev/progress/97?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 97%")
+![](https://geps.dev/progress/98?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 98%")
 
 <details>
-<summary><strong>151 / 155 classes complete</strong></summary>
+<summary><strong>152 / 155 classes complete</strong></summary>
 
 - ✅ `MAngle`
 - ✅ `MArgDatabase`
@@ -184,7 +184,7 @@
 - ✅ `MPxAttributePatternFactory`
 - ✅ `MPxCommand`
 - ✅ `MPxData`
-- ⬜ `MPxGeometryData`
+- ✅ `MPxGeometryData`
 - ⬜ `MPxGeometryIterator`
 - ⬜ `MPxNode`
 - ⬜ `MPxSurfaceShape`
