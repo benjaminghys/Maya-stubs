@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `153 / 306` classes complete.
+**Total progress:** `154 / 306` classes complete.
 ![](https://geps.dev/progress/50?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 50%")
 
-**Last Updated:** 2025-09-14
+**Last Updated:** 2025-09-15
 
-**Estimated number of unit tests:** ~11,655¹
+**Estimated number of unit tests:** ~11,662¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -50,10 +50,10 @@
 
 ### `maya.api.OpenMaya`
 
-![](https://geps.dev/progress/94?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 94%")
+![](https://geps.dev/progress/95?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 95%")
 
 <details>
-<summary><strong>153 / 162 classes complete</strong></summary>
+<summary><strong>154 / 162 classes complete</strong></summary>
 
 - ✅ `MAngle`
 - ✅ `MArgDatabase`
@@ -66,7 +66,7 @@
 - ✅ `MAttributeSpec`
 - ✅ `MAttributeSpecArray`
 - ✅ `MBoundingBox`
-- ⬜ `MCacheSchema`
+- ✅ `MCacheSchema`
 - ✅ `MCallbackId`
 - ✅ `MCallbackIdArray`
 - ✅ `MCameraMessage`
