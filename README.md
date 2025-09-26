@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `163 / 306` classes complete.
-![](https://geps.dev/progress/53?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 53%")
+**Total progress:** `166 / 306` classes complete.
+![](https://geps.dev/progress/54?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 54%")
 
-**Last Updated:** 2025-09-25
+**Last Updated:** 2025-09-26
 
-**Estimated number of unit tests:** ~12,091¹
+**Estimated number of unit tests:** ~12,153¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -223,15 +223,15 @@
 
 ### `maya.api.OpenMayaAnim`
 
-![](https://geps.dev/progress/8?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 8%")
+![](https://geps.dev/progress/33?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 33%")
 
 <details>
-<summary><strong>1 / 12 classes complete</strong></summary>
+<summary><strong>4 / 12 classes complete</strong></summary>
 
 - ✅ `MAnimControl`
-- ⬜ `MAnimCurveChange`
-- ⬜ `MAnimCurveClipboard`
-- ⬜ `MAnimCurveClipboardItem`
+- ✅ `MAnimCurveChange`
+- ✅ `MAnimCurveClipboard`
+- ✅ `MAnimCurveClipboardItem`
 - ⬜ `MAnimCurveClipboardItemArray`
 - ⬜ `MAnimMessage`
 - ⬜ `MAnimUtil`
