@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `173 / 306` classes complete.
+**Total progress:** `174 / 306` classes complete.
 ![](https://geps.dev/progress/56?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 56%")
 
 **Last Updated:** 2025-10-03
 
-**Estimated number of unit tests:** ~12,656¹
+**Estimated number of unit tests:** ~12,740¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -223,10 +223,10 @@
 
 ### `maya.api.OpenMayaAnim`
 
-![](https://geps.dev/progress/91?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 91%")
+![](https://geps.dev/progress/100?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 100%")
 
 <details>
-<summary><strong>11 / 12 classes complete</strong></summary>
+<summary><strong>12 / 12 classes complete</strong></summary>
 
 - ✅ `MAnimControl`
 - ✅ `MAnimCurveChange`
@@ -237,7 +237,7 @@
 - ✅ `MAnimUtil`
 - ✅ `MFnAnimCurve`
 - ✅ `MFnGeometryFilter`
-- ⬜ `MFnIkJoint`
+- ✅ `MFnIkJoint`
 - ✅ `MFnSkinCluster`
 - ✅ `MFnWeightGeometryFilter`
 
