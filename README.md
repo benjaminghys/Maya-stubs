@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `176 / 306` classes complete.
+**Total progress:** `177 / 306` classes complete.
 ![](https://geps.dev/progress/57?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 57%")
 
 **Last Updated:** 2025-10-04
 
-**Estimated number of unit tests:** ~12,780¹
+**Estimated number of unit tests:** ~12,791¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -246,14 +246,14 @@
 
 ### `maya.api.OpenMayaRender`
 
-![](https://geps.dev/progress/2?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 2%")
+![](https://geps.dev/progress/3?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 3%")
 
 <details>
-<summary><strong>2 / 87 classes complete</strong></summary>
+<summary><strong>3 / 87 classes complete</strong></summary>
 
 - ✅ `MAttributeParameterMapping`
 - ✅ `MAttributeParameterMappingList`
-- ⬜ `MBlendState`
+- ✅ `MBlendState`
 - ⬜ `MBlendStateDesc`
 - ⬜ `MCameraOverride`
 - ⬜ `MClearOperation`
