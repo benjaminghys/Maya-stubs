@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `174 / 306` classes complete.
-![](https://geps.dev/progress/56?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 56%")
+**Total progress:** `175 / 306` classes complete.
+![](https://geps.dev/progress/57?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 57%")
 
-**Last Updated:** 2025-10-03
+**Last Updated:** 2025-10-04
 
-**Estimated number of unit tests:** ~12,740¹
+**Estimated number of unit tests:** ~12,751¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -246,12 +246,12 @@
 
 ### `maya.api.OpenMayaRender`
 
-![](https://geps.dev/progress/0?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 0%")
+![](https://geps.dev/progress/1?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 1%")
 
 <details>
-<summary><strong>0 / 87 classes complete</strong></summary>
+<summary><strong>1 / 87 classes complete</strong></summary>
 
-- ⬜ `MAttributeParameterMapping`
+- ✅ `MAttributeParameterMapping`
 - ⬜ `MAttributeParameterMappingList`
 - ⬜ `MBlendState`
 - ⬜ `MBlendStateDesc`
