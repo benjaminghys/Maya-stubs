@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `187 / 306` classes complete.
+**Total progress:** `188 / 306` classes complete.
 ![](https://geps.dev/progress/61?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 61%")
 
-**Last Updated:** 2025-10-07
+**Last Updated:** 2025-10-09
 
-**Estimated number of unit tests:** ~12,977¹
+**Estimated number of unit tests:** ~12,991¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -246,10 +246,10 @@
 
 ### `maya.api.OpenMayaRender`
 
-![](https://geps.dev/progress/14?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 14%")
+![](https://geps.dev/progress/16?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 16%")
 
 <details>
-<summary><strong>13 / 87 classes complete</strong></summary>
+<summary><strong>14 / 87 classes complete</strong></summary>
 
 - ✅ `MAttributeParameterMapping`
 - ✅ `MAttributeParameterMappingList`
@@ -269,7 +269,7 @@
 - ⬜ `MFrameContext`
 - ⬜ `MGeometry`
 - ✅ `MGeometryExtractor`
-- ⬜ `MGeometryIndexMapping`
+- ✅ `MGeometryIndexMapping`
 - ⬜ `MGeometryRequirements`
 - ⬜ `MGeometryUtilities`
 - ⬜ `MHUDRender`
