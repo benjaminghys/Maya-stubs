@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `199 / 306` classes complete.
+**Total progress:** `200 / 306` classes complete.
 ![](https://geps.dev/progress/65?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 65%")
 
-**Last Updated:** 2025-10-11
+**Last Updated:** 2025-10-12
 
-**Estimated number of unit tests:** ~13,181¹
+**Estimated number of unit tests:** ~13,197¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -246,10 +246,10 @@
 
 ### `maya.api.OpenMayaRender`
 
-![](https://geps.dev/progress/28?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 28%")
+![](https://geps.dev/progress/29?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 29%")
 
 <details>
-<summary><strong>25 / 87 classes complete</strong></summary>
+<summary><strong>26 / 87 classes complete</strong></summary>
 
 - ✅ `MAttributeParameterMapping`
 - ✅ `MAttributeParameterMappingList`
@@ -278,7 +278,7 @@
 - ✅ `MIndexBufferDescriptorList`
 - ✅ `MInitContext`
 - ✅ `MInitFeedback`
-- ⬜ `MIntersection`
+- ✅ `MIntersection`
 - ⬜ `MLightParameterInformation`
 - ⬜ `MPassContext`
 - ✅ `MPresentTarget`
