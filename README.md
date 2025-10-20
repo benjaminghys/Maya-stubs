@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `203 / 306` classes complete.
+**Total progress:** `205 / 306` classes complete.
 ![](https://geps.dev/progress/66?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 66%")
 
-**Last Updated:** 2025-10-19
+**Last Updated:** 2025-10-20
 
-**Estimated number of unit tests:** ~13,336¹
+**Estimated number of unit tests:** ~13,350¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -246,10 +246,10 @@
 
 ### `maya.api.OpenMayaRender`
 
-![](https://geps.dev/progress/33?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 33%")
+![](https://geps.dev/progress/35?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 35%")
 
 <details>
-<summary><strong>29 / 87 classes complete</strong></summary>
+<summary><strong>31 / 87 classes complete</strong></summary>
 
 - ✅ `MAttributeParameterMapping`
 - ✅ `MAttributeParameterMappingList`
@@ -297,7 +297,7 @@
 - ✅ `MQuadRender`
 - ✅ `MRasterizerState`
 - ✅ `MRasterizerStateDesc`
-- ⬜ `MRenderItem`
+- ✅ `MRenderItem`
 - ⬜ `MRenderItemList`
 - ⬜ `MRenderOperation`
 - ⬜ `MRenderOverride`
@@ -314,7 +314,7 @@
 - ⬜ `MSceneRender`
 - ⬜ `MSelectionContext`
 - ⬜ `MSelectionInfo`
-- ⬜ `MShaderCompileMacro`
+- ✅ `MShaderCompileMacro`
 - ⬜ `MShaderInstance`
 - ⬜ `MShaderManager`
 - ⬜ `MStateManager`
