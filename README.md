@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `214 / 306` classes complete.
-![](https://geps.dev/progress/69?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 69%")
+**Total progress:** `217 / 306` classes complete.
+![](https://geps.dev/progress/70?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 70%")
 
-**Last Updated:** 2025-10-28
+**Last Updated:** 2025-10-30
 
-**Estimated number of unit tests:** ~13,514¹
+**Estimated number of unit tests:** ~13,579¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -246,10 +246,10 @@
 
 ### `maya.api.OpenMayaRender`
 
-![](https://geps.dev/progress/45?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 45%")
+![](https://geps.dev/progress/49?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 49%")
 
 <details>
-<summary><strong>40 / 87 classes complete</strong></summary>
+<summary><strong>43 / 87 classes complete</strong></summary>
 
 - ✅ `MAttributeParameterMapping`
 - ✅ `MAttributeParameterMappingList`
@@ -318,14 +318,14 @@
 - ⬜ `MShaderInstance`
 - ⬜ `MShaderManager`
 - ⬜ `MStateManager`
-- ⬜ `MStencilOpDesc`
+- ✅ `MStencilOpDesc`
 - ⬜ `MSubSceneContainer`
 - ⬜ `MSubSceneContainerIterator`
 - ⬜ `MSwatchRenderBase`
-- ⬜ `MTargetBlendDesc`
+- ✅ `MTargetBlendDesc`
 - ⬜ `MTexture`
 - ⬜ `MTextureAssignment`
-- ⬜ `MTextureDescription`
+- ✅ `MTextureDescription`
 - ⬜ `MTextureManager`
 - ⬜ `MTextureUpdateRegion`
 - ⬜ `MUIDrawManager`
