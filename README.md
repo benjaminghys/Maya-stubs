@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `243 / 306` classes complete.
-![](https://geps.dev/progress/79?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 79%")
+**Total progress:** `247 / 306` classes complete.
+![](https://geps.dev/progress/80?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 80%")
 
 **Last Updated:** 2025-11-16
 
-**Estimated number of unit tests:** ~14,435¹
+**Estimated number of unit tests:** ~14,538¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -246,10 +246,10 @@
 
 ### `maya.api.OpenMayaRender`
 
-![](https://geps.dev/progress/78?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 78%")
+![](https://geps.dev/progress/82?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 82%")
 
 <details>
-<summary><strong>68 / 87 classes complete</strong></summary>
+<summary><strong>72 / 87 classes complete</strong></summary>
 
 - ✅ `MAttributeParameterMapping`
 - ✅ `MAttributeParameterMappingList`
@@ -280,7 +280,7 @@
 - ✅ `MInitFeedback`
 - ✅ `MIntersection`
 - ✅ `MLightParameterInformation`
-- ⬜ `MPassContext`
+- ✅ `MPassContext`
 - ✅ `MPresentTarget`
 - ✅ `MPxComponentConverter`
 - ⬜ `MPxDrawOverride`
@@ -298,7 +298,7 @@
 - ✅ `MRasterizerState`
 - ✅ `MRasterizerStateDesc`
 - ✅ `MRenderItem`
-- ⬜ `MRenderItemList`
+- ✅ `MRenderItemList`
 - ✅ `MRenderOperation`
 - ✅ `MRenderOverride`
 - ✅ `MRenderParameters`
@@ -307,7 +307,7 @@
 - ✅ `MRenderTargetAssignment`
 - ✅ `MRenderTargetDescription`
 - ✅ `MRenderTargetManager`
-- ⬜ `MRenderUtilities`
+- ✅ `MRenderUtilities`
 - ✅ `MRenderer`
 - ✅ `MSamplerState`
 - ✅ `MSamplerStateDesc`
@@ -323,7 +323,7 @@
 - ⬜ `MSubSceneContainerIterator`
 - ⬜ `MSwatchRenderBase`
 - ✅ `MTargetBlendDesc`
-- ⬜ `MTexture`
+- ✅ `MTexture`
 - ✅ `MTextureAssignment`
 - ✅ `MTextureDescription`
 - ✅ `MTextureManager`
