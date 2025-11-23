@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `251 / 306` classes complete.
-![](https://geps.dev/progress/82?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 82%")
+**Total progress:** `257 / 306` classes complete.
+![](https://geps.dev/progress/83?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 83%")
 
-**Last Updated:** 2025-11-22
+**Last Updated:** 2025-11-23
 
-**Estimated number of unit tests:** ~14,700¹
+**Estimated number of unit tests:** ~14,807¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -246,10 +246,10 @@
 
 ### `maya.api.OpenMayaRender`
 
-![](https://geps.dev/progress/87?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 87%")
+![](https://geps.dev/progress/94?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 94%")
 
 <details>
-<summary><strong>76 / 87 classes complete</strong></summary>
+<summary><strong>82 / 87 classes complete</strong></summary>
 
 - ✅ `MAttributeParameterMapping`
 - ✅ `MAttributeParameterMappingList`
@@ -283,17 +283,17 @@
 - ✅ `MPassContext`
 - ✅ `MPresentTarget`
 - ✅ `MPxComponentConverter`
-- ⬜ `MPxDrawOverride`
-- ⬜ `MPxGeometryOverride`
-- ⬜ `MPxImagePlaneOverride`
-- ⬜ `MPxIndexBufferMutator`
-- ⬜ `MPxPrimitiveGenerator`
+- ✅ `MPxDrawOverride`
+- ✅ `MPxGeometryOverride`
+- ✅ `MPxImagePlaneOverride`
+- ✅ `MPxIndexBufferMutator`
+- ✅ `MPxPrimitiveGenerator`
 - ⬜ `MPxShaderOverride`
 - ⬜ `MPxShadingNodeOverride`
 - ⬜ `MPxSubSceneOverride`
 - ⬜ `MPxSurfaceShadingNodeOverride`
 - ⬜ `MPxVertexBufferGenerator`
-- ⬜ `MPxVertexBufferMutator`
+- ✅ `MPxVertexBufferMutator`
 - ✅ `MQuadRender`
 - ✅ `MRasterizerState`
 - ✅ `MRasterizerStateDesc`
