@@ -5,9 +5,9 @@
 **Total progress:** `260 / 306` classes complete.
 ![](https://geps.dev/progress/84?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 84%")
 
-**Last Updated:** 2025-11-25
+**Last Updated:** 2025-11-28
 
-**Estimated number of unit tests:** ~14,886¹
+**Estimated number of unit tests:** ~14,920¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
