@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `262 / 306` classes complete.
-![](https://geps.dev/progress/85?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 85%")
+**Total progress:** `266 / 306` classes complete.
+![](https://geps.dev/progress/86?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 86%")
 
-**Last Updated:** 2025-11-30
+**Last Updated:** 2025-12-01
 
-**Estimated number of unit tests:** ~14,939¹
+**Estimated number of unit tests:** ~15,069¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -344,17 +344,17 @@
 
 ### `maya.api.OpenMayaUI`
 
-![](https://geps.dev/progress/2?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 2%")
+![](https://geps.dev/progress/11?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 11%")
 
 <details>
-<summary><strong>1 / 45 classes complete</strong></summary>
+<summary><strong>5 / 45 classes complete</strong></summary>
 
 - ⬜ `M3dView`
-- ⬜ `MCursor`
-- ⬜ `MDrawData`
-- ⬜ `MDrawInfo`
+- ✅ `MCursor`
+- ✅ `MDrawData`
+- ✅ `MDrawInfo`
 - ✅ `MDrawProperties`
-- ⬜ `MDrawRequest`
+- ✅ `MDrawRequest`
 - ⬜ `MEvent`
 - ⬜ `MFnCircleSweepManip`
 - ⬜ `MFnCurveSegmentManip`
