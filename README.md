@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `274 / 306` classes complete.
-![](https://geps.dev/progress/89?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 89%")
+**Total progress:** `283 / 306` classes complete.
+![](https://geps.dev/progress/92?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 92%")
 
-**Last Updated:** 2025-12-05
+**Last Updated:** 2025-12-06
 
-**Estimated number of unit tests:** ~15,285¹
+**Estimated number of unit tests:** ~15,522¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -344,10 +344,10 @@
 
 ### `maya.api.OpenMayaUI`
 
-![](https://geps.dev/progress/28?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 28%")
+![](https://geps.dev/progress/48?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 48%")
 
 <details>
-<summary><strong>13 / 45 classes complete</strong></summary>
+<summary><strong>22 / 45 classes complete</strong></summary>
 
 - ⬜ `M3dView`
 - ✅ `MCursor`
@@ -363,15 +363,15 @@
 - ✅ `MFnDistanceManip`
 - ✅ `MFnFreePointTriadManip`
 - ✅ `MFnManip3D`
-- ⬜ `MFnPointOnCurveManip`
-- ⬜ `MFnPointOnSurfaceManip`
-- ⬜ `MFnRotateManip`
-- ⬜ `MFnScaleManip`
-- ⬜ `MFnStateManip`
-- ⬜ `MFnToggleManip`
-- ⬜ `MHWShaderSwatchGenerator`
-- ⬜ `MManipData`
-- ⬜ `MMaterial`
+- ✅ `MFnPointOnCurveManip`
+- ✅ `MFnPointOnSurfaceManip`
+- ✅ `MFnRotateManip`
+- ✅ `MFnScaleManip`
+- ✅ `MFnStateManip`
+- ✅ `MFnToggleManip`
+- ✅ `MHWShaderSwatchGenerator`
+- ✅ `MManipData`
+- ✅ `MMaterial`
 - ⬜ `MMaterialArray`
 - ⬜ `MPaintMessage`
 - ⬜ `MPanelCanvas`
