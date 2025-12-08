@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `286 / 306` classes complete.
-![](https://geps.dev/progress/93?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 93%")
+**Total progress:** `290 / 306` classes complete.
+![](https://geps.dev/progress/94?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 94%")
 
-**Last Updated:** 2025-12-07
+**Last Updated:** 2025-12-08
 
-**Estimated number of unit tests:** ~15,605¹
+**Estimated number of unit tests:** ~15,698¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -344,10 +344,10 @@
 
 ### `maya.api.OpenMayaUI`
 
-![](https://geps.dev/progress/55?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 55%")
+![](https://geps.dev/progress/64?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 64%")
 
 <details>
-<summary><strong>25 / 45 classes complete</strong></summary>
+<summary><strong>29 / 45 classes complete</strong></summary>
 
 - ⬜ `M3dView`
 - ✅ `MCursor`
@@ -375,7 +375,7 @@
 - ✅ `MMaterialArray`
 - ✅ `MPaintMessage`
 - ✅ `MPanelCanvas`
-- ⬜ `MPanelCanvasInfo`
+- ✅ `MPanelCanvasInfo`
 - ⬜ `MPxContext`
 - ⬜ `MPxContextCommand`
 - ⬜ `MPxDragAndDropBehavior`
@@ -387,9 +387,9 @@
 - ⬜ `MPxSelectionContext`
 - ⬜ `MPxSurfaceShapeUI`
 - ⬜ `MPxToolCommand`
-- ⬜ `MSelectInfo`
-- ⬜ `MTextureEditorDrawInfo`
-- ⬜ `MTimeSliderCustomDrawManager`
+- ✅ `MSelectInfo`
+- ✅ `MTextureEditorDrawInfo`
+- ✅ `MTimeSliderCustomDrawManager`
 - ⬜ `MTimeSliderDrawPrimitive`
 - ⬜ `MUiMessage`
 - ⬜ `RenderParameters`
