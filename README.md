@@ -2,10 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `295 / 306` classes complete.
+**Total progress:** `296 / 306` classes complete.
 ![](https://geps.dev/progress/96?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 96%")
 
-**Last Updated:** 2025-12-13
+**Last Updated:** 2025-12-16
 
 **Estimated number of unit tests:** ~15,871¹
 
@@ -344,10 +344,10 @@
 
 ### `maya.api.OpenMayaUI`
 
-![](https://geps.dev/progress/75?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 75%")
+![](https://geps.dev/progress/77?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 77%")
 
 <details>
-<summary><strong>34 / 45 classes complete</strong></summary>
+<summary><strong>35 / 45 classes complete</strong></summary>
 
 - ⬜ `M3dView`
 - ✅ `MCursor`
@@ -376,7 +376,7 @@
 - ✅ `MPaintMessage`
 - ✅ `MPanelCanvas`
 - ✅ `MPanelCanvasInfo`
-- ⬜ `MPxContext`
+- ✅ `MPxContext`
 - ✅ `MPxContextCommand`
 - ⬜ `MPxDragAndDropBehavior`
 - ⬜ `MPxHardwareShader`
