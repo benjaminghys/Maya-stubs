@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya-stubs&label=Visitors&color=65c065&style=flat" alt="Page visits" /> </p>
 
-**Total progress:** `297 / 306` classes complete.
-![](https://geps.dev/progress/97?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 97%")
+**Total progress:** `301 / 306` classes complete.
+![](https://geps.dev/progress/98?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 98%")
 
-**Last Updated:** 2025-12-17
+**Last Updated:** 2025-12-19
 
-**Estimated number of unit tests:** ~15,888¹
+**Estimated number of unit tests:** ~16,065¹
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
 > These stubs provide **accurate type hints**, **correct argument signatures**, and are fully compatible with **static type checkers** like MyPy.
@@ -344,10 +344,10 @@
 
 ### `maya.api.OpenMayaUI`
 
-![](https://geps.dev/progress/80?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 80%")
+![](https://geps.dev/progress/88?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 88%")
 
 <details>
-<summary><strong>36 / 45 classes complete</strong></summary>
+<summary><strong>40 / 45 classes complete</strong></summary>
 
 - ⬜ `M3dView`
 - ✅ `MCursor`
@@ -379,14 +379,14 @@
 - ✅ `MPxContext`
 - ✅ `MPxContextCommand`
 - ✅ `MPxDragAndDropBehavior`
-- ⬜ `MPxHardwareShader`
-- ⬜ `MPxHwShaderNode`
-- ⬜ `MPxLocatorNode`
+- ✅ `MPxHardwareShader`
+- ✅ `MPxHwShaderNode`
+- ✅ `MPxLocatorNode`
 - ⬜ `MPxManipContainer`
 - ⬜ `MPxManipulatorNode`
 - ⬜ `MPxSelectionContext`
 - ⬜ `MPxSurfaceShapeUI`
-- ⬜ `MPxToolCommand`
+- ✅ `MPxToolCommand`
 - ✅ `MSelectInfo`
 - ✅ `MTextureEditorDrawInfo`
 - ✅ `MTimeSliderCustomDrawManager`
