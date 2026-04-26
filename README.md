@@ -5,13 +5,11 @@
 **Total progress:** `306 / 306` classes complete.
 ![](https://geps.dev/progress/100?dangerColor=65c065&warningColor=65c065&successColor=65c065 "Progress 100%")
 
-**Last Updated:** 2026-02-20
+**Last Updated:** 2026-04-26
 
 **Estimated number of unit tests:** ~16,786¹
 
-**Finalizing the stubs...**
-
-**Stress testing stubs against existing repositories...**
+**Creating store page...**
 
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
