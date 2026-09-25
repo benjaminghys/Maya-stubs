@@ -14,7 +14,9 @@
 ## Buy once, keep forever!
 
 More info:
+
 [Strict Maya 2026 Python API 2.0 Stubs](https://store.bencremental.com/l/maya-2026-api-stubs)
+
 [Strict Maya 2025 Python API 2.0 Stubs](https://store.bencremental.com/l/maya-2025-api-stubs)
 
 > This public repository tracks the ongoing development of **strict, manually unit-tested Python stubs** for Autodesk Maya's Python API 2.0.
